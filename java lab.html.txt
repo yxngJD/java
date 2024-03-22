@@ -4,7 +4,7 @@
 	<title>JavaScript Lab</title>
 </head>
 <body>
-	<script>
+        <script>
         // Task 1: Variable Declaration and Math operations
         var num1 = 10, num2 = 5;
         console.log("Addition: ", num1 + num2);
